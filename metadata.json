@@ -1,0 +1,6 @@
+{
+  "name": "AtomoLab Gamificado",
+  "description": "Plataforma interativa e gamificada para ensino e pesquisa de modelos atômicos baseada em simulação histórica e rupturas epistemológicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
